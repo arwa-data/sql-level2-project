@@ -23,13 +23,7 @@ This project demonstrates advanced SQL concepts using MySQL.
 ## Technologies
 - MySQL
 
-## Screenshots
 
-### Top Students
-![Top](screenshots/top_students.png)
-
-### Failed Students
-![Failed](screenshots/failed_students.png)
 
 ### Aggregate Functions
 ![Aggregate](screenshots/aggregate.png)
